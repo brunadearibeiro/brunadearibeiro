@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, me chamo Bruna!
+# Hello, my name is Bruna!
 
-<!--
-**brunadearibeiro/brunadearibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem vindo ao meu perfil GitHub 👋
+# Welcome to my Github profile 👋
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando como assistente de faturamento hospitalar
+- 🔭 I’m currently working as a hospital billing assistant
+  
+- 📚 Estou cursando Engenharia de Software na Unisales
+- 📚 I'm studying Software Engineering at Unisales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo banco de dados 
+- 🌱 I’m currently learning database
+  
+- 📫 Como entrar em contato comigo:
+
+   <a href = "mailto:abruna815@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+- 📫 How to reach me:
+
+  <a href = "mailto:abruna815@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+- 😄 Pronomes: ela/dela
+- 😄 Pronouns: she/her
+
+- 👅 O que estou usando no momento
+- 👅 What I'm using at the moment:
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
