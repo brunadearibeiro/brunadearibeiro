@@ -26,5 +26,5 @@ Welcome to my Github profile 👋
 - 😄 Pronomes: ela/dela
 - 😄 Pronouns: she/her
 
-- 👅 O que estou usando no momento
+- 👅 O que estou usando no momento:
 - 👅 What I'm using at the moment:
