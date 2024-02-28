@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente trabalho como **assistente de telemarketing**
+ 🔭 Trabalho como **assistente de telemarketing**
  
- 🌱 Atualmente estou aprendento **Java e Sistemas Distribuídos**
+ 🌱 Estou aprendento **Java e Sistemas Distribuídos**
 
- 📚 Estou cursando o **terceiro período de Engenharia de Software**
-
- </div>
+ 📚 Curso o **terceiro período de Engenharia de Software**
  
 <div align="center"> 
   <a href="mailto:brunadearibeiro.profissional@gmail.com">
