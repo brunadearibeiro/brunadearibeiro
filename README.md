@@ -4,7 +4,7 @@ Olá! Sou uma entusiasta de tecnologia apaixonadoa por **Engenharia de Software*
 
 ## Sobre Mim
 
-- 🎓 **Estudante de Engenharia de Software (atualmente cursando o quarto período)** 
+- 🎓 **Estudante de Engenharia de Software** (atualmente cursando o quarto período)
 - 🐹 **Mãe de duas Porquinhas da Índia**
 - 🎮 **Gamer** nas horas vagas
 - 📚 **Leitora** de ficção científica
