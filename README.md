@@ -1,13 +1,13 @@
 # 🌟 Bem-vindo(a) ao Meu Perfil GitHub! 🌟
 
-Olá! Sou um(a) entusiasta de tecnologia apaixonado(a) por **Engenharia de Software**, **jogos**, e **leitura**. Aqui você encontrará uma variedade de projetos e contribuições que refletem minhas habilidades e interesses.
+Olá! Sou uma entusiasta de tecnologia apaixonadoa por **Engenharia de Software**, **jogos**, e **livros de sci-fi**. Aqui você encontrará uma variedade de projetos e contribuições que refletem minhas habilidades e interesses.
 
 ## Sobre Mim
 
-- 🎓 **Estudante de Engenharia de Software** 
+- 🎓 **Estudante de Engenharia de Software (atualmente cursando o quarto período)** 
 - 🐹 **Mãe de duas Porquinhas da Índia**
 - 🎮 **Gamer** nas horas vagas
-- 📚 **Leitora ávida** de ficção científica e fantasia
+- 📚 **Leitora** de ficção científica
 
 ## Projetos em Destaque
 
@@ -25,14 +25,11 @@ Uma coleção de desafios de programação em Go focada em arrays, ideal para qu
 - **Linguagens de Programação:**
   - Java
   - Go
-  - Python
   - SQL
 
 - **Ferramentas e Tecnologias:**
-  - JPA
   - Git
-  - After Effects
-  - Docker
+  - After Effects (softwares de edição num geral)
 
 ## Conecte-se Comigo
 
