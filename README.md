@@ -1,41 +1,41 @@
-# 🌟 Bem-vindo(a) ao Meu Perfil GitHub! 🌟
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-Olá! Sou uma entusiasta de tecnologia apaixonadoa por **Engenharia de Software**, **jogos**, e **livros de sci-fi**. Aqui você encontrará uma variedade de projetos e contribuições que refletem minhas habilidades e interesses.
+Hello! I am a tech enthusiast passionate about **Software Engineering**, **games**, and **sci-fi books**. Here you will find a variety of projects and contributions that reflect my skills and interests.
 
-## Sobre Mim
+## About Me
 
-- 🎓 **Estudante de Engenharia de Software** (atualmente cursando o quarto período)
-- 🐹 **Mãe de duas Porquinhas da Índia**
-- 🎮 **Gamer** nas horas vagas
-- 📚 **Leitora** de ficção científica
+- 🎓 **Software Engineering Student** (currently in the fourth semester)
+- 🐹 **Mother of Two Guinea Pigs**
+- 🎮 **Gamer** in my free time
+- 📚 **Sci-fi Book Reader**
 
-## Projetos em Destaque
+## Featured Projects
 
-### 🐾 Aplicação de Cadastro de Pets e Proprietários
-Um sistema completo para gerenciar informações de pets e seus proprietários, utilizando JPA para persistência de dados.
+### 🐾 Pet and Owner Registration Application
+A complete system to manage pet and owner information, using JPA for data persistence.
 
-### 🍃 Java com Spring Boot - Bootcamp da Claro
+### 🍃 Java with Spring Boot - Claro Bootcamp
 
-## Minhas Habilidades
+## My Skills
 
-- **Linguagens de Programação:**
+- **Programming Languages:**
   - Java
   - Go
   - SQL
 
-- **Ferramentas e Tecnologias:**
+- **Tools and Technologies:**
   - JPA
   - Git
-  - After Effects (softwares de edição num geral)
+  - After Effects (and general editing software)
 
-## Conecte-se Comigo
+## Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruna-ribeiro-a09103212/)
 
-## Estatísticas do GitHub
+## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunadearibeiro&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunadearibeiro&show_icons=true&theme=radical)
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato. 😊
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch. 😊
