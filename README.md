@@ -28,14 +28,13 @@ Uma coleção de desafios de programação em Go focada em arrays, ideal para qu
   - SQL
 
 - **Ferramentas e Tecnologias:**
+  - JPA
   - Git
   - After Effects (softwares de edição num geral)
 
 ## Conecte-se Comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🐦 [Twitter](https://twitter.com/seu-perfil)
-- 🌐 [Blog Pessoal](https://www.seublog.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruna-ribeiro-a09103212/)
 
 ## Estatísticas do GitHub
 
