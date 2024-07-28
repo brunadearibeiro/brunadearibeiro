@@ -14,11 +14,7 @@ Olá! Sou uma entusiasta de tecnologia apaixonadoa por **Engenharia de Software*
 ### 🐾 Aplicação de Cadastro de Pets e Proprietários
 Um sistema completo para gerenciar informações de pets e seus proprietários, utilizando JPA para persistência de dados.
 
-### 🎵 História de Manuel e Lucero
-Uma narrativa envolvente sobre dois artistas famosos e sua relação complexa após o divórcio.
-
-### 📚 100 Exercícios de Arrays em Go
-Uma coleção de desafios de programação em Go focada em arrays, ideal para quem quer aprimorar suas habilidades na linguagem.
+### 🍃 Java com Spring Boot - Bootcamp da Claro
 
 ## Minhas Habilidades
 
