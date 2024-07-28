@@ -39,7 +39,7 @@ Uma coleção de desafios de programação em Go focada em arrays, ideal para qu
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunadearibeiro&show_icons=true&theme=radical)
 
 ---
 
